@@ -11,7 +11,7 @@ student id: [23099867]
 
 The goal of this project is to create an interactive web application that helps users learn new languages through vocabulary exercises, grammar quizzes, pronunciation practice, and progress tracking. The application will provide a simple, user-friendly interface, support multiple languages, and motivate learners with gamified features.
 
-2. Roles and Responsibilities
+2. Roles and Responsibilities....
 
 Project Manager: Oversees planning, deadlines, and ensures team collaboration.
 
