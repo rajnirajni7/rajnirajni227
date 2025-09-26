@@ -3,6 +3,7 @@ Title Page
 
 Project Title: LinguaLearn – Interactive Language Learning Platform
 
+<<<<<<< HEAD
 Team Members: [Rajni Bhatia , Simranjeet virk]
 
 student id: [23099867]
@@ -58,3 +59,52 @@ Unit testing for backend APIs.
 Frontend validation and user acceptance testing.
 
 End-to-end integration testing.
+=======
+Team Members: [ Simranjeet kaur , Rajni Bhatia]
+
+student id: [23099687]
+
+4. Timeline with Milestones
+
+Week 1: Set up GitHub repository, finalize frameworks/tools, assign roles.
+
+Week 2: Frontend design (UI/UX wireframes, navigation).
+
+Week 3: Backend setup (server, APIs, authentication).
+
+Week 4: Database creation and integration.
+
+Week 5: Implement core features (quizzes, exercises, progress tracker).
+
+Week 6: Testing (unit + integration), bug fixes.
+
+Week 7: Final review, documentation, and presentation.
+
+5. Risks
+
+Technical Risks: Limited experience with React or backend framework.
+
+Timeline Risks: Conflicting schedules may delay deliverables.
+
+Integration Risks: Errors during API and database integration.
+
+Scope Risks: Risk of adding too many extra features beyond the deadline.
+
+6. Communication and Work Plan
+
+Meetings: Weekly meetings every Friday evening (virtual or in-person).
+
+Collaboration Tools:
+
+GitHub for version control.
+
+Trello for task assignment and tracking.
+
+Slack/Discord for team communication.
+
+Google Drive for document sharing.
+
+Decision-Making: Majority vote for project decisions; project manager decides in case of ties.
+
+Work Approach: Agile approach with weekly sprints, regular updates, and incremental builds.
+>>>>>>> simran
